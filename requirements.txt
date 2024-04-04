@@ -1,0 +1,6 @@
+Pandas version: 2.2.1
+Matplotlib version: 3.8.3
+Seaborn version: 0.13.2
+NumPy version: 1.26.4
+Plotly Express version: 5.19.0
+Geopandas version: 0.14.3
