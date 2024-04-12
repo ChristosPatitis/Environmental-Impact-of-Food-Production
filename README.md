@@ -23,23 +23,23 @@ This repo contains a requirements.txt file with a list of all the packages and d
 macOS type the following commands :
 Install the virtual environment and the required packages by following commands:
 
-pyenv local 3.11.3
+'''pyenv local 3.11.3
 python -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
-pip install -r requirements.txt
+pip install -r requirements.txt'''
 For PowerShell CLI :
 
-python -m venv .venv
+'''python -m venv .venv
 .venv\Scripts\Activate.ps1
 pip install --upgrade pip
-pip install -r requirements.txt
+pip install -r requirements.txt'''
 For Git-Bash CLI :
 
-python -m venv .venv
+'''python -m venv .venv
 source .venv/Scripts/activate
 pip install --upgrade pip
-pip install -r requirements.txt
+pip install -r requirements.txt'''
 Note: If you encounter an error when trying to run pip install --upgrade pip, try using the following command:
 
 python.exe -m pip install --upgrade pip
