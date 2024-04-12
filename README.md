@@ -1,5 +1,6 @@
 # Understanding the Environmental Impact of Food Production: 
-In this project we tried to investigate the connections between our eating habits  between the emmision footprint in our planet through agriculture,and try to give suggestions.
+## Task: 
+In this project we have collected data on food production, consumption and emissions then we alazysed these datasets trying to find patterns between food choiches and the enviromental impact of those choiches thes as a result we tried to uncover how food productions and consumption affects carbon emissions to the enviroment.
 
 You will need : 
 
