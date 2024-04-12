@@ -28,9 +28,6 @@ python -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
-WindowsOS type the following commands :
-Install the virtual environment and the required packages by following commands.
-
 For PowerShell CLI :
 
 python -m venv .venv
