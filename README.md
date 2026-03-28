@@ -60,7 +60,7 @@ pip install -r requirements.txt
 jupyter notebook  
 
 ## Sample Visualizations
-(Add your charts here after saving them in the `images/` folder)
+
 
 ![Chart 1](images/chart1.png)  
 ![Chart 2](images/chart2.png)
