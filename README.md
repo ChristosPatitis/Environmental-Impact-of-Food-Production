@@ -12,15 +12,15 @@ The objective is to explore trends, compare regions and food categories, and ide
 
 ### CO2 Emissions Trend
 
-![CO2 Trend](/Users/patti/work/Environmental-Impact-of-Food-Production/images/image:chart1.png)
+![CO2 Trend](images/image:chart1.png)
 
 ### Emissions by Food Category
 
-![Food Emissions](/Users/patti/work/Environmental-Impact-of-Food-Production/images/image:emissions.png)
+![Food Emissions](images/image:emissions.png)
 
 ### Global Emissions Map
 
-![World Map](/Users/patti/work/Environmental-Impact-of-Food-Production/images/image:map.png)
+![World Map](images/image:map.png)
 
 ---
 
