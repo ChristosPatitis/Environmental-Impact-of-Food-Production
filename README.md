@@ -1,78 +1,49 @@
 # Environmental Impact of Food Production
 
-## Overview
-This project analyzes the environmental impact of food production using exploratory data analysis (EDA). The goal is to understand how different food products contribute to emissions and identify patterns through visualizations.
+## Project Overview
 
-## Objectives
-- Explore food production and emissions datasets
-- Identify which food categories have the highest environmental impact
-- Create clear and informative visualizations
-- Extract insights that support better decision-making
+This project analyzes the environmental impact of food production using multiple datasets, including CO2 emissions, agricultural data, and food supply chain emissions.
+
+The objective is to explore trends, compare regions and food categories, and identify key contributors to global emissions.
+
+## Datasets Used
+
+* CO2 emissions dataset
+* Agricultural emissions dataset
+* Food production emissions dataset
 
 ## Tools & Technologies
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
-- GeoPandas
-- Jupyter Notebook
 
-## Project Structure
-Environmental-Impact-of-Food-Production/
-├── data/
-├── notebooks/
-│   └── Emissions_EDA.ipynb
-├── reports/
-│   └── Environmental Impact of Food Production.pptx
-├── images/
-├── README.md
-├── requirements.txt
-└── .gitignore
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Plotly
+* GeoPandas
 
-## Key Questions
-- Which food products generate the highest emissions?
-- How do emissions vary across different food categories?
-- What trends can be observed in food production data?
+## Key Insights
 
-## How to Run the Project
+* CO2 emissions have increased over time globally
+* Emissions vary significantly across continents
+* A small number of countries contribute a large share of emissions
+* Animal-based products have higher emissions than plant-based foods
+* Agricultural practices significantly impact environmental outcomes
 
-1. Clone the repository
-git clone https://github.com/ChristosPatitis/Environmental-Impact-of-Food-Production.git  
-cd Environmental-Impact-of-Food-Production  
+## Visualizations
 
-2. Create a virtual environment
-python -m venv .venv  
-
-3. Activate the environment  
-
-Windows (PowerShell):  
-.venv\Scripts\Activate.ps1  
-
-macOS / Linux:  
-source .venv/bin/activate  
-
-4. Install dependencies  
-pip install -r requirements.txt  
-
-5. Run the notebook  
-jupyter notebook  
-
-## Sample Visualizations
-
-
-![Chart 1](images/chart1.png)  
-![Chart 2](images/chart2.png)
-
-## Results
-The analysis highlights how different food categories contribute to environmental impact, especially emissions, and provides insights through visualizations.
+* Time-series analysis of emissions
+* Regional comparisons
+* Food category analysis
+* Correlation between GDP and emissions
+* Global emissions map
 
 ## Future Improvements
-- Build an interactive dashboard (Tableau or Streamlit)
-- Add deeper analysis
-- Improve storytelling in the notebook
-- Include more datasets
 
-## Author
-Christos Patitis
+* Build an interactive dashboard (Tableau / Streamlit)
+* Include more datasets
+* Perform predictive analysis
+
+## Conclusion
+
+This project demonstrates how data analysis can be used to understand environmental impact and support better decision-making in food production and sustainability.
