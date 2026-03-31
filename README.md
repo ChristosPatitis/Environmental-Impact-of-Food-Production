@@ -6,11 +6,31 @@ This project analyzes the environmental impact of food production using multiple
 
 The objective is to explore trends, compare regions and food categories, and identify key contributors to global emissions.
 
+---
+
+## Example Visualizations
+
+### CO2 Emissions Trend
+
+![CO2 Trend](/Users/patti/work/Environmental-Impact-of-Food-Production/images/image:chart1.png)
+
+### Emissions by Food Category
+
+![Food Emissions](/Users/patti/work/Environmental-Impact-of-Food-Production/images/image:emissions.png)
+
+### Global Emissions Map
+
+![World Map](/Users/patti/work/Environmental-Impact-of-Food-Production/images/image:map.png)
+
+---
+
 ## Datasets Used
 
 * CO2 emissions dataset
 * Agricultural emissions dataset
 * Food production emissions dataset
+
+---
 
 ## Tools & Technologies
 
@@ -22,6 +42,8 @@ The objective is to explore trends, compare regions and food categories, and ide
 * Plotly
 * GeoPandas
 
+---
+
 ## Key Insights
 
 * CO2 emissions have increased over time globally
@@ -30,20 +52,32 @@ The objective is to explore trends, compare regions and food categories, and ide
 * Animal-based products have higher emissions than plant-based foods
 * Agricultural practices significantly impact environmental outcomes
 
-## Visualizations
+---
+
+## Visualizations Included
 
 * Time-series analysis of emissions
 * Regional comparisons
-* Food category analysis
+* Food category analysis (meat, dairy, vegetables)
 * Correlation between GDP and emissions
 * Global emissions map
 
+---
+
 ## Future Improvements
 
-* Build an interactive dashboard (Tableau / Streamlit)
-* Include more datasets
+* Build an interactive dashboard (Tableau or Streamlit)
+* Include additional datasets
 * Perform predictive analysis
+
+---
 
 ## Conclusion
 
 This project demonstrates how data analysis can be used to understand environmental impact and support better decision-making in food production and sustainability.
+
+---
+
+## Author
+
+Christos Patitis
